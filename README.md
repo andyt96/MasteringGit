@@ -19,4 +19,4 @@ These are the basic git commands that I learned thoughtout this tutorial. I will
 `git pull` - Downloads your files from your Git repo
 
 ## The Files in this Repo
-The files are just basic HTML and CSS files. They don't contain anything important. I created these files so that I have something to commit and push to this repo using the command line. You can see the files live on [here](https://andyt96.github.io/Git-Project/).
+The files are just basic HTML and CSS files. They don't contain anything important. I created these files so that I have something to commit and push to this repo using the command line. You can see the files live [here](https://andyt96.github.io/Git-Project/).
