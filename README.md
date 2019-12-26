@@ -2,7 +2,7 @@
 This repository was created to help me understand how to use git on the command line. The files in this repo were pushed using git on the command line.
 
 ## Basic Git Commmands
-These are the basic git commands that I learned thoughtout this tutorial. I will be learned more advance git commands in the future.
+These are the basic git commands that I learned thoughtout this tutorial. I will be learning more advance git commands in the future.
 
 `git config` - Configures your global Git account (`user.name` and `user.email`)
 
