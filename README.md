@@ -1,6 +1,6 @@
 # Hello!
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/64576417-bd00-4263-bf4e-3f40b0aaacaa/deploy-status)](https://app.netlify.com/sites/nifty-sammet-a6d6ba/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/64576417-bd00-4263-bf4e-3f40b0aaacaa/deploy-status)](https://app.netlify.com/sites/mastering-git-andy/deploys)
 
 This repository was created to help me understand how to use git on the command line. The files in this repo were pushed using git on the command line.
 
