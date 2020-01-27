@@ -1,5 +1,10 @@
 # Hello!
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/64576417-bd00-4263-bf4e-3f40b0aaacaa/deploy-status)](https://app.netlify.com/sites/nifty-sammet-a6d6ba/deploys)
+
 This repository was created to help me understand how to use git on the command line. The files in this repo were pushed using git on the command line.
+
+Another purpose of this repository is to learn how to use and deploy on [Netlify](https://www.netlify.com/). I plan to use Netlify in the future after my Namecheap hosting plan expires.
 
 ## Basic Git Commmands
 These are the basic git commands that I learned thoughtout this tutorial. I will be learning more advance git commands in the future.
