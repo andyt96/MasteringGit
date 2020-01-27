@@ -17,7 +17,7 @@ These are the basic git commands that I learned thoughtout this tutorial. I will
 
 `git add` - Tracks the files in your directory
 
-`git commit - Commits your tracked files
+`git commit` - Commits your tracked files
 
 `git push` - Uploads your files to your Git repo
 
