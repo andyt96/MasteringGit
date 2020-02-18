@@ -2,6 +2,12 @@
 @charset "utf-8";
 
 p {
-    font-size: 2rem;
-    color: mediumpurple;
+    font-size: 1.8rem;
+    font-family: 'Hind', sans-serif;
+    color: LightSeaGreen;
+}
+
+body {
+    width:95%;
+    margin: 0 auto;
 }
