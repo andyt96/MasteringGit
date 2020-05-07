@@ -22,6 +22,18 @@ These are the basic git commands that I learned thoughtout this tutorial. I will
 
 `git pull` - Downloads your files from your Git repo
 
+`git clone` - Creates a clone or copy of an existing repo
+
+`git branch` - Lists all of your branches
+
+`git branch <new branch>` - Creates a new branch using the current commit
+
+`git checkout` - Switches your branch and navigates to another branch
+
+`git log` - Shows all of your commit in your current branch
+
+`git merge`
+
 ## The Files in this Repo
 
-The files are just basic HTML and CSS files. They don't contain anything important. I created these files so that I have something to commit and push to this repo using the command line. You can see the files live [here](https://mastering-git-andy.netlify.com/).
+The files are just basic HTML and CSS files. They don't contain anything important. I created these files so that I have something to commit and push to this repo using the command line. You can see the files live [here](https://mastering-git-andy.netlify.app/).
