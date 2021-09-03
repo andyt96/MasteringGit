@@ -2,21 +2,21 @@
 @charset "utf-8";
 
 p {
-	font-size: 1.5rem;
-	font-family: "Hind", sans-serif;
-	color: LightSeaGreen;
+  font-size: 1.5rem;
+  font-family: "Hind", sans-serif;
+  color: LightSeaGreen;
 }
 
 a {
-	color: LightPink;
-	text-decoration: none;
+  color: LightPink;
+  text-decoration: none;
 }
 
 a:hover {
-	text-decoration: underline;
+  text-decoration: underline;
 }
 
 body {
-	width: 90%;
-	margin: 0 auto;
+  width: 90%;
+  margin: 0 auto;
 }
